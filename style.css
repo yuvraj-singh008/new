@@ -1,0 +1,19 @@
+body{
+    background-image: url("background.jpg");
+}
+
+p{
+    font-size: 22px;
+    width: 250px;
+    font-weight: bold;
+    margin-top: 10px;
+    background-color: cyan;
+    color: dodgerblue;
+    text-shadow: blue;
+    border-radius: 5px;
+}
+canvas { 
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
